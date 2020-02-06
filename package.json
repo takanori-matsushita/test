@@ -1,0 +1,11 @@
+{
+  "name": "yarn-practice-package",
+  "version": "1.0.0",
+  "description": "This is yarn practice package.",
+  "main": "index.js",
+  "author": "T.M",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
